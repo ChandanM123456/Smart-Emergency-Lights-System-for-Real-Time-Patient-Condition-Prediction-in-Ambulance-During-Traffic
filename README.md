@@ -69,6 +69,6 @@ Follow these steps to set up and run the ambulance detection component of the Sm
 
 6.  **Place `ambulance_detector.py`:**
     Ensure the `ambulance_detector.py` script (provided in our conversation) is placed in your main project folder to detect the ambulance.
-    Ensure the `image_traffic_system` script (provided in our conversation) is placed in your main project folder to detect the ambulance.
-    Ensure the `integrated_traffic_system` script (provided in our conversation) is placed in your main project folder to detect the ambulance.
+    Ensure the `image_traffic_system` script to detect the ambulance using images and giving traffic instructions.
+    Ensure the `integrated_traffic_system` script to detect the ambulance using camera in realtime and give traffic instructions based on the real time.
     
